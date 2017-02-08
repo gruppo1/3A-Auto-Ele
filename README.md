@@ -23,5 +23,14 @@ attivare le luci dal radiocomando, una tracolla per quest’ultimo e un adattato
 **Copilota:** Venere Daniele, Tarala Adrian
 
 #**Cleanflight**
-![cleanflight-logo-light-wide-1-240px](https://cloud.githubusercontent.com/assets/25583245/22731790/2331b81c-edec-11e6-8ee7-27c7327af78d.jpg)
+![cleanflight-logo-light-wide-1-240px](https://cloud.githubusercontent.com/assets/25583245/22731790/2331b81c-edec-11e6-8ee7-
+27c7327af78d.jpg)
+Versione pulita di baseflight( utilizzato per gestire l'apparato riguardante il volo e i movimenti di ale per il movimento dell'oggetto 
 
+Questa software è diverso da baseflight in quanto tenta di utilizzare le moderne pratiche di sviluppo software che si traducono 
+in:
+Maggiore affidabilità attraverso la robustezza del codice e test automatizzati.
+Più facile manutenzione tramite il codice pulizia.
+Più facile sviluppare nuove funzionalità.
+Più facile codice di riutilizzare attraverso il codice disaccoppiamento e modularizzazione.
+In Cleanflight, molte funzioni sono ancora in fase sperimentale e ci sono ancora un sacco di cose da fare, ma  viene aggiornato in modo frequente, con nuove funzionalità o il cambiamento della caratteristiche, fattore ceh però potrebbe dare fastidio ad alcuni.
