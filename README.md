@@ -22,3 +22,6 @@ attivare le luci dal radiocomando, una tracolla per quest’ultimo e un adattato
 **Pilota:** Segura Stefano
 **Copilota:** Venere Daniele, Tarala Adrian
 
+#**Cleanflight**
+![cleanflight-logo-light-wide-1-240px](https://cloud.githubusercontent.com/assets/25583245/22731790/2331b81c-edec-11e6-8ee7-27c7327af78d.jpg)
+
