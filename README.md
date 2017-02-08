@@ -37,10 +37,9 @@ In Cleanflight, molte funzioni sono ancora in fase sperimentale e ci sono ancora
 frequente, con nuove funzionalità o il cambiamento della caratteristiche, fattore ceh però potrebbe dare fastidio ad alcuni.
 
 **Codice sorgente**
-mixer custom
-mmix reset
-mmix 0 1.0, 1.0, -0.930, -1.0
-mmix 1 1.0, -1.0, -0.930, 1.0
-mmix 2 1.0, -1.0, 0.930, -1.0
-mmix 3 1.0, 1.0, 0.930, 1.0
-![IMG-20170208-WA0019.jpg](https://mail.google.com/mail/u/0/?ui=2&ik=d68fdb4e18&view=att&th=15a1cef321520464&attid=0.2&disp=safe&realattid=1558754462770659328-local1&zw)
+#mixer custom
+#mmix reset
+#mmix 0 1.0, 1.0, -0.930, -1.0
+#mmix 1 1.0, -1.0, -0.930, 1.0
+#mmix 2 1.0, -1.0, 0.930, -1.0
+#mmix 3 1.0, 1.0, 0.930, 1.0
