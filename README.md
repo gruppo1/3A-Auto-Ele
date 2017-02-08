@@ -14,19 +14,19 @@ attivare le luci dal radiocomando, una tracolla per quest’ultimo e un adattato
 #**LA NOSTRA SQUADRA**
 ![img-20170208-wa0011](https://cloud.githubusercontent.com/assets/25583245/22731223/2a844ca8-edea-11e6-94fe-c257f4ee7d2e.jpg)
 
-**Artigiano:** Chiozza Michele
-**Surfatore del Web:** La Torre Fabio, Salvi Dario
-**Reporter:** Vlaseniuc Ghenadia, Auddino Lorenzo
-**Mediatore:** Ferrero Gianluca, Malandrone Fabio
-**Nerd:** Stellato Andrea, Cavarretta Samuele
-**Pilota:** Segura Stefano
-**Copilota:** Venere Daniele, Tarala Adrian
+#**Artigiano:** Chiozza Michele
+#**Surfatore del Web:** La Torre Fabio, Salvi Dario
+#**Reporter:** Vlaseniuc Ghenadia, Auddino Lorenzo
+#**Mediatore:** Ferrero Gianluca, Malandrone Fabio
+#**Nerd:** Stellato Andrea, Cavarretta Samuele
+#**Pilota:** Segura Stefano
+#**Copilota:** Venere Daniele, Tarala Adrian
 
 #**Cleanflight**
 ![cleanflight-logo-light-wide-1-240px](https://cloud.githubusercontent.com/assets/25583245/22731790/2331b81c-edec-11e6-8ee7-
 27c7327af78d.jpg)
-Versione pulita di baseflight( utilizzato per gestire l'apparato riguardante il volo e i movimenti di ale per il movimento dell'oggetto 
 
+Versione pulita di baseflight( utilizzato per gestire l'apparato riguardante il volo e i movimenti di ale per il movimento dell'oggetto 
 Questa software è diverso da baseflight in quanto tenta di utilizzare le moderne pratiche di sviluppo software che si traducono 
 in:
 Maggiore affidabilità attraverso la robustezza del codice e test automatizzati.
