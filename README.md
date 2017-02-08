@@ -24,8 +24,7 @@ attivare le luci dal radiocomando, una tracolla per quest’ultimo e un adattato
 
 #**Cleanflight**
 
-![cleanflight-logo-light-wide-1-240px](https://cloud.githubusercontent.com/assets/25583245/22731790/2331b81c-edec-11e6-8ee7-
-27c7327af78d.jpg)
+![cleanflight-logo-light-wide-1-240px](https://cloud.githubusercontent.com/assets/25583245/22732510/b98f7f90-edee-11e6-99cb-656cf5edb9c5.jpg)
 
 Versione pulita di baseflight( utilizzato per gestire l'apparato riguardante il volo e i movimenti di ale per il movimento dell'oggetto 
 Questa software è diverso da baseflight in quanto tenta di utilizzare le moderne pratiche di sviluppo software che si traducono 
