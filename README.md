@@ -33,4 +33,13 @@ Maggiore affidabilità attraverso la robustezza del codice e test automatizzati.
 Più facile manutenzione tramite il codice pulizia.
 Più facile sviluppare nuove funzionalità.
 Più facile codice di riutilizzare attraverso il codice disaccoppiamento e modularizzazione.
-In Cleanflight, molte funzioni sono ancora in fase sperimentale e ci sono ancora un sacco di cose da fare, ma  viene aggiornato in modo frequente, con nuove funzionalità o il cambiamento della caratteristiche, fattore ceh però potrebbe dare fastidio ad alcuni.
+In Cleanflight, molte funzioni sono ancora in fase sperimentale e ci sono ancora un sacco di cose da fare, ma  viene aggiornato in modo 
+frequente, con nuove funzionalità o il cambiamento della caratteristiche, fattore ceh però potrebbe dare fastidio ad alcuni.
+
+**Codice sorgente**
+mixer custom
+mmix reset
+mmix 0 1.0, 1.0, -0.930, -1.0
+mmix 1 1.0, -1.0, -0.930, 1.0
+mmix 2 1.0, -1.0, 0.930, -1.0
+mmix 3 1.0, 1.0, 0.930, 1.0
