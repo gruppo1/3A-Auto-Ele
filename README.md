@@ -37,9 +37,23 @@ In Cleanflight, molte funzioni sono ancora in fase sperimentale e ci sono ancora
 frequente, con nuove funzionalità o il cambiamento della caratteristiche, fattore ceh però potrebbe dare fastidio ad alcuni.
 
 **Codice sorgente**
-#mixer custom
-#mmix reset
-#mmix 0 1.0, 1.0, -0.930, -1.0
-#mmix 1 1.0, -1.0, -0.930, 1.0
-#mmix 2 1.0, -1.0, 0.930, -1.0
-#mmix 3 1.0, 1.0, 0.930, 1.0
+**docs	Merge pull request #1738 from edusteinhorst/MX25L64-support	3 days ago
+lib	Further fixups of const correctness	4 months ago
+media	Improve legibility of RSSI/TX icon.	4 months ago
+src	Merge pull request #1738 from edusteinhorst/MX25L64-support	3 days ago
+support	preliminary support for pr builds / 3rd party builds	2 years ago
+.gitattributes	Use lf EOL for travis and make files	8 months ago
+.gitignore	Add .vscode to .gitignore	5 months ago
+.travis.sh	Set FAIL_ON_WARNINGS in .travis.sh	8 months ago
+.travis.yml	Add code coverage measurement	2 months ago
+CONTRIBUTING.md	Consolidated developement info into Development.md	2 years ago
+JLinkSettings.ini	Merge branch 'AlienWii32_defaults' of	2 years ago
+LICENSE	Updated source files to include the GPL v3 notices. Include a copy of	3 years ago
+Makefile	make lcov usage optional based on if it is installed	2 months ago
+Notes.md	Update Notes.md	4 months ago
+README.md	Update README.md	3 days ago
+Vagrantfile	Alternative solution.	8 months ago
+build_docs.sh	Add VTX documentation.	27 days ago
+fake_travis_build.sh	Add SPRACINGF3OSD to the fake_travis_build.sh file	a month ago**
+
+Queste sono vari file/ cartelle prese da https://github.com/cleanflight/cleanflight
