@@ -1,4 +1,4 @@
-**EACHINE RACER 250:**
+#**EACHINE RACER 250:**
 ![eachine_racer_250_rtf5](https://cloud.githubusercontent.com/assets/25583245/22729106/90ba26c2-ede1-11e6-9665-0cd5170ae5cc.jpg)
 L'Eachine Racer 250 è un ottimo drone fpv economico, ed è adatto sia ad esperti, sia a principianti. 
 Esiste anche la versione RTF completa di monitor fpv e radiocomando, perfetta per chi vuole cimentarsi nel mondo dei droni FPV. 
@@ -11,4 +11,14 @@ il canale video selezionato, la tensione corrente della batteria e il tempo di v
 Altri oggetti all’interno della scatola sono una batteria e un caricabatterie LiPo, due set di eliche, un cavo per permettere di 
 attivare le luci dal radiocomando, una tracolla per quest’ultimo e un adattatore per per le prese europee.
 
-**LA NOSTRA SQUADRA**
+#**LA NOSTRA SQUADRA**
+![img-20170208-wa0011](https://cloud.githubusercontent.com/assets/25583245/22731223/2a844ca8-edea-11e6-94fe-c257f4ee7d2e.jpg)
+
+**Artigiano:** Chiozza Michele
+**Surfatore del Web:** La Torre Fabio, Salvi Dario
+**Reporter:** Vlaseniuc Ghenadia, Auddino Lorenzo
+**Mediatore:** Ferrero Gianluca, Malandrone Fabio
+**Nerd:** Stellato Andrea, Cavarretta Samuele
+**Pilota:** Segura Stefano
+**Copilota:** Venere Daniele, Tarala Adrian
+
