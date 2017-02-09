@@ -17,13 +17,13 @@ attivare le luci dal radiocomando, una tracolla per quest’ultimo e un adattato
 #**LA NOSTRA SQUADRA**
 ![img-20170208-wa0011](https://cloud.githubusercontent.com/assets/25583245/22731223/2a844ca8-edea-11e6-94fe-c257f4ee7d2e.jpg)
 
-**Artigiano:** Chiozza Michele
-**Surfatore del Web:** La Torre Fabio, Salvi Dario
-**Reporter:** Vlaseniuc Ghenadia, Auddino Lorenzo
-**Mediatore:** Ferrero Gianluca, Malandrone Fabio
-**Nerd:** Stellato Andrea, Cavarretta Samuele
-**Pilota:** Segura Stefano
-**Copilota:** Venere Daniele, Tarala Adrian
+**Artigiano:** Chiozza Michele;
+**Surfatore del Web:** La Torre Fabio, Salvi Dario;
+**Reporter:** Vlaseniuc Ghenadia, Auddino Lorenzo;
+**Mediatore:** Ferrero Gianluca, Malandrone Fabio;
+**Nerd:** Stellato Andrea, Cavarretta Samuele;
+**Pilota:** Segura Stefano;
+**Copilota:** Venere Daniele, Tarala Adrian;
 
 #**Cleanflight**
 
