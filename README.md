@@ -1,5 +1,5 @@
 #**EACHINE RACER 250:**
-![90ba26c2-ede1-11e6-9665-0cd5170ae5cc](https://cloud.githubusercontent.com/assets/25583245/22778080/e8864c30-eeb5-11e6-9894-e5af599cbe92.jpg)
+![e8864c30-eeb5-11e6-9894-e5af599cbe92](https://cloud.githubusercontent.com/assets/25583245/22781529/2c5c43d0-eec3-11e6-823c-e11092ecbc4c.jpg)
 L'Eachine Racer 250 è un ottimo drone fpv economico, ed è adatto sia ad esperti, sia a principianti. 
 Esiste anche la versione RTF completa di monitor fpv e radiocomando, perfetta per chi vuole cimentarsi nel mondo dei droni FPV. 
 La scatola contiene tutto il necessario per alzarsi e volare ad eccezione di una radio e di un ricevitore. 
