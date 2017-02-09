@@ -11,6 +11,9 @@ il canale video selezionato, la tensione corrente della batteria e il tempo di v
 Altri oggetti all’interno della scatola sono una batteria e un caricabatterie LiPo, due set di eliche, un cavo per permettere di 
 attivare le luci dal radiocomando, una tracolla per quest’ultimo e un adattatore per per le prese europee.
 
+![2017-02-08 11 48 58](https://cloud.githubusercontent.com/assets/25583245/22777588/00337684-eeb4-11e6-922b-158babde86ce.png)
+
+
 #**LA NOSTRA SQUADRA**
 ![img-20170208-wa0011](https://cloud.githubusercontent.com/assets/25583245/22731223/2a844ca8-edea-11e6-94fe-c257f4ee7d2e.jpg)
 
