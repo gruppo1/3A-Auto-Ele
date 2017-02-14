@@ -72,3 +72,12 @@ fake_travis_build.sh	Add SPRACINGF3OSD to the fake_travis_build.sh file	a month 
 
 Queste sono vari file/ cartelle prese da https://github.com/cleanflight/cleanflight
 
+#**Pilota:**
+
+![image](https://cloud.githubusercontent.com/assets/25583245/22928380/7f04ae46-f2b6-11e6-9720-0bdbd8785b4e.png)
+
+![image](https://cloud.githubusercontent.com/assets/25583245/22928386/8690b0d8-f2b6-11e6-8d1b-fd41b52061d1.png)
+
+#**Tipologie di droni:**
+
+https://docs.google.com/document/d/1rOlNaBJ8uVvSks6egBIFYgNdLdOoKcRmSfJAUiUAz4c/edit#heading=h.gjdgxs
