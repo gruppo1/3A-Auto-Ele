@@ -85,3 +85,8 @@ Queste sono vari file/ cartelle prese da https://github.com/cleanflight/cleanfli
 #**Tipologie di droni:**
 
 https://docs.google.com/document/d/1rOlNaBJ8uVvSks6egBIFYgNdLdOoKcRmSfJAUiUAz4c/edit#heading=h.gjdgxs
+
+#**Surfatore del web:**
+Voti sui siti internet riguardanti i droni
+
+https://docs.google.com/document/d/1eGZiRVvP59iiz2ZYdVtxC2e93XDRmOQDDBPSQRrXsdA/edit
