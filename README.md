@@ -30,6 +30,8 @@ https://docs.google.com/document/d/135c4xFa7jR6VVWD-kp5_r7WxU38t6Ozn4jNwfqrtuEI/
 #**LA NOSTRA SQUADRA**
 ![img-20170208-wa0011](https://cloud.githubusercontent.com/assets/25583245/22731223/2a844ca8-edea-11e6-94fe-c257f4ee7d2e.jpg)
 
+https://docs.google.com/presentation/d/1JBsKtaD-3g-kL0RmBqXuvx9JPo7qUhR39n4BuWtcYvw/edit#slide=id.p3
+
 **Artigiano:** Chiozza Michele;
 **Surfatore del Web:** La Torre Fabio, Salvi Dario;
 **Reporter:** Vlaseniuc Ghenadia, Auddino Lorenzo;
