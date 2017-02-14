@@ -61,4 +61,3 @@ fake_travis_build.sh	Add SPRACINGF3OSD to the fake_travis_build.sh file	a month 
 
 Queste sono vari file/ cartelle prese da https://github.com/cleanflight/cleanflight
 
-![image](https://cloud.githubusercontent.com/assets/25583245/22928031/ae54a324-f2b4-11e6-8370-96aae9ec73b4.png)
