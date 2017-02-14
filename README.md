@@ -23,6 +23,8 @@ attivare le luci dal radiocomando, una tracolla per quest’ultimo e un adattato
 
 ![image](https://cloud.githubusercontent.com/assets/25583245/22928229/a161db22-f2b5-11e6-8791-6c7997295bf9.png)
 
+https://docs.google.com/document/d/135c4xFa7jR6VVWD-kp5_r7WxU38t6Ozn4jNwfqrtuEI/edit
+
 #**TOTALE= 213,96€**
 
 #**LA NOSTRA SQUADRA**
