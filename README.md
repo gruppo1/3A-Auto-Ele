@@ -13,6 +13,17 @@ attivare le luci dal radiocomando, una tracolla per quest’ultimo e un adattato
 
 ![2017-02-08 11 48 58](https://cloud.githubusercontent.com/assets/25583245/22777588/00337684-eeb4-11e6-922b-158babde86ce.png)
 
+#**Componenti in internet:**
+
+![image](https://cloud.githubusercontent.com/assets/25583245/22928031/ae54a324-f2b4-11e6-8370-96aae9ec73b4.png)
+
+![image](https://cloud.githubusercontent.com/assets/25583245/22928203/7c6af40c-f2b5-11e6-9740-544b6788fdda.png)
+
+![image](https://cloud.githubusercontent.com/assets/25583245/22928215/8d0472ac-f2b5-11e6-932a-ae50a25c06d8.png)
+
+![image](https://cloud.githubusercontent.com/assets/25583245/22928229/a161db22-f2b5-11e6-8791-6c7997295bf9.png)
+
+#**TOTALE= 213,96€**
 
 #**LA NOSTRA SQUADRA**
 ![img-20170208-wa0011](https://cloud.githubusercontent.com/assets/25583245/22731223/2a844ca8-edea-11e6-94fe-c257f4ee7d2e.jpg)
